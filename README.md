@@ -7,7 +7,7 @@ This repository contains solutions to coding assignments implemented in C++.
 
 ---
 
-## 📁 Assignment 1
+##  Assignment 1
 
 ### 🔹 Problem 1: Cyclic Substring Maximum Sum
 - Given a string, find the maximum sum of a cyclic substring with all unique characters.
@@ -16,7 +16,7 @@ This repository contains solutions to coding assignments implemented in C++.
 
 ---
 
-### 🔹 Problem 2: Array Transformation Cost Minimization
+###  Problem 2: Array Transformation Cost Minimization
 - Convert all elements of an array to the same value using ±K operations.
 - **Approach:**  
   - Check feasibility using modulo condition  
@@ -26,19 +26,19 @@ This repository contains solutions to coding assignments implemented in C++.
 
 ---
 
-## 🛠️ Language Used
+##  Language Used
 - C++
 
 ---
 
-## 📌 Notes
+##  Notes
 - Each assignment is organized in separate folders.
 - Each problem is implemented in an individual file.
 - Code includes comments explaining the logic and approach.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Compile:
    ```bash
@@ -54,7 +54,7 @@ This repository contains solutions to coding assignments implemented in C++.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 coding-assignments/
