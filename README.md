@@ -42,14 +42,14 @@ This repository contains solutions to coding assignments implemented in C++.
 
 1. Compile:
    ```bash
-   g++ problem1.cpp -o problem1
-   g++ problem2.cpp -o problem2
+   g++ problem-1.cpp -o problem-1
+   g++ problem-2.cpp -o problem-2
    ```
 
 2. Run:
    ```bash
-   ./problem1
-   ./problem2
+   ./problem-1
+   ./problem-2
    ```
 
 ---
@@ -59,8 +59,8 @@ This repository contains solutions to coding assignments implemented in C++.
 ```
 coding-assignments/
 │── assignment-1/
-│     ├── problem1.cpp
-│     ├── problem2.cpp
+│     ├── problem-1.cpp
+│     ├── problem-2.cpp
 │
 │── README.md
 ```
